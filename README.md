@@ -15,7 +15,11 @@
 ```bash
 git clone https://github.com/osipovyakov/library_manager.git
 ```
-Для запуска из директории приложения выполните команду:
+Переходим в директорию приложения:
+```bash
+cd library_manager
+```
+Для запуска приложения из директории выполните команду:
 ```bash
 python library_manager.py
 ```
